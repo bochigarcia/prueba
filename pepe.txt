@@ -1,3 +1,4 @@
 Archivo de configuracion
 Cambio de Testing
 Cambio de Develop
+Cambio para V 1.7
