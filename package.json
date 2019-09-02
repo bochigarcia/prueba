@@ -1,6 +1,6 @@
 {
   "name": "prueba",
-  "version": "1.6.0", 
+  "version": "1.7.0", 
   "description": "Proyecto Prueba",
   "main": "index.js",
   "scripts": {
